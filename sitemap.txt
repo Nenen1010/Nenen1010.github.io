@@ -1,0 +1,6 @@
+http://example.com/gallery/index.html
+http://example.com/2023/09/19/1/
+http://example.com/gallery/2023shanghai/index.html
+http://example.com/photo/index.html
+http://example.com/
+http://example.com/tags/recruit/
