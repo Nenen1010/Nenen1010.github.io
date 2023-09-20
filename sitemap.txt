@@ -1,9 +1,11 @@
+http://example.com/2023/09/19/2023shanghai/
+http://example.com/about/index.html
+http://example.com/gallery/2023shanghai/index.html
+http://example.com/movies/2023shanghai/index.html
 http://example.com/movies/index.html
 http://example.com/movies/xuanchuan/index.html
-http://example.com/movies/2023shanghai/index.html
 http://example.com/gallery/index.html
-http://example.com/2023/09/19/1/
-http://example.com/gallery/2023shanghai/index.html
+http://example.com/2023/09/19/recruit/
 http://example.com/photo/index.html
 http://example.com/
 http://example.com/tags/recruit/

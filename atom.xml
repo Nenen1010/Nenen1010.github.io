@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-09-19T14:46:07.210Z</updated>
+  <updated>2023-09-20T07:28:53.563Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,9 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2023上艇回顾</title>
+    <link href="http://example.com/2023/09/19/2023shanghai/"/>
+    <id>http://example.com/2023/09/19/2023shanghai/</id>
+    <published>2023-09-19T13:49:15.000Z</published>
+    <updated>2023-09-20T07:28:53.563Z</updated>
+    
+    <content type="html"><![CDATA[<p>🌟 收集了队员们关于此次比赛的感悟——</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;🌟 收集了队员们关于此次比赛的感悟——&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="recruit" scheme="http://example.com/tags/recruit/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2023秋季招新</title>
-    <link href="http://example.com/2023/09/19/1/"/>
-    <id>http://example.com/2023/09/19/1/</id>
+    <link href="http://example.com/2023/09/19/recruit/"/>
+    <id>http://example.com/2023/09/19/recruit/</id>
     <published>2023-09-19T13:49:15.000Z</published>
     <updated>2023-09-19T14:46:07.210Z</updated>
     
