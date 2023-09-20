@@ -8,4 +8,5 @@ http://example.com/gallery/index.html
 http://example.com/2023/09/19/recruit/
 http://example.com/photo/index.html
 http://example.com/
+http://example.com/tags/races/
 http://example.com/tags/recruit/

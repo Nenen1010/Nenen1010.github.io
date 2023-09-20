@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-09-20T07:38:04.708Z</updated>
+  <updated>2023-09-20T07:40:29.659Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2023/09/19/2023shanghai/"/>
     <id>http://example.com/2023/09/19/2023shanghai/</id>
     <published>2023-09-19T13:49:15.000Z</published>
-    <updated>2023-09-20T07:38:04.708Z</updated>
+    <updated>2023-09-20T07:40:29.659Z</updated>
     
     <content type="html"><![CDATA[<p>🌟 收集了队员们关于此次比赛的感悟——</p>]]></content>
     
@@ -35,7 +35,7 @@
     
     
     
-    <category term="recruit" scheme="http://example.com/tags/recruit/"/>
+    <category term="races" scheme="http://example.com/tags/races/"/>
     
   </entry>
   
